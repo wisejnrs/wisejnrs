@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**wisejnrs/wisejnrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Machine Learning stuff.
 - 🌱 I’m currently learning writing stuff for DAW's
@@ -9,8 +5,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: Twitter
 - ⚡ Fun fact: I make my own swoosh noises.
--->
-
 
 <p align="center"> <h1 align="center"> Michael Wise </h1> </p>
 <p align="center">
