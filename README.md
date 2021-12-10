@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on Machine Learning stuff.
 - 🌱 I’m currently learning writing stuff for DAW's
 - 👯 I’m looking to collaborate on Data and Machine Learning
-- 💬 Ask me about ...
 - 📫 How to reach me: Twitter
 - ⚡ Fun fact: I make my own swoosh noises.
 
