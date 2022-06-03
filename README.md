@@ -7,7 +7,7 @@
 
 In general, you can move the needle by changing up viscosity, friction, automation, immediacy, niche, governance and learning.  Check out https://github.com/wisejnrs/pushmanifesto/wiki/Oblique-Strategies for more.
 
-<p align="center"> <h1 align="center"> Michael Wise </h1> </p>
+<p align="center"> <h1 align="center"> <a href="https://linktr.ee/mlwise">Michael Wise</a> </h1> </p>
 <p align="center">
 <a href="https://github.com/wisejnrs" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="WiseJNRS" height="20" width="20" /></a>
 <a href="https://twitter.com/michael_wise" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Michael Wise" height="20" width="20" /></a>
