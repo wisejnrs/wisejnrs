@@ -1,9 +1,9 @@
 
 - 🔭 I’m currently working on Machine Learning and Crypto products.
-- 🌱 I’m currentlywriting msuic and tools for Digital Audio Workstations (DAW)
-- 👯 I’m looking to collaborate on [Data Oriented Architectures](https://scholar.google.com.au/scholar?q=Data+Oriented+Architectures).
+- 🌱 I’m currently producing music, and tools for Digital Audio Workstations (DAW)
+- 👯 I’m looking to collaborate on [Data Oriented Architectures](https://scholar.google.com.au/scholar?q=Data+Oriented+Architectures), Machine Learning and Crypto product ideas.
 - 📫 How to reach me: [Twitter](https://twitter.com/michael_wise)
-- ⚡ Fun fact: I make my own swoosh noises.
+- ⚡ Fun fact: I make my own sci-fi noises 🎵
 
 In general, if you can only move the needle on viscosity, friction, automation, immediacy, niche, governance and learning you can make a difference.  Check out my [Oblique-Strategies](https://github.com/wisejnrs/pushmanifesto/wiki/Oblique-Strategies) wiki for more.
 
