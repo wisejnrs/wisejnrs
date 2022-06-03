@@ -1,9 +1,11 @@
 
-- 🔭 I’m currently working on Machine Learning stuff.
-- 🌱 I’m currently learning writing stuff for DAW's
-- 👯 I’m looking to collaborate on Data and Machine Learning
-- 📫 How to reach me: Twitter
+- 🔭 I’m currently working on Machine Learning and Crypto products.
+- 🌱 I’m currentlywriting msuic and tools for Digital Audio Workstations (DAW)
+- 👯 I’m looking to collaborate on Data Oriented Architectures.
+- 📫 How to reach me: [Twitter](https://twitter.com/michael_wise)
 - ⚡ Fun fact: I make my own swoosh noises.
+
+In general, you can move the needle by changing up viscosity, friction, automation, immediacy, niche, governance and learning.  Check out https://github.com/wisejnrs/pushmanifesto/wiki/Oblique-Strategies for more.
 
 <p align="center"> <h1 align="center"> Michael Wise </h1> </p>
 <p align="center">
