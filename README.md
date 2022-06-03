@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/michael_wise)
 - ⚡ Fun fact: I make my own swoosh noises.
 
-In general, if you can only move the needle on viscosity, friction, automation, immediacy, niche, governance and learning to create change.  Check out my [Oblique-Strategies](https://github.com/wisejnrs/pushmanifesto/wiki/Oblique-Strategies) wiki for more.
+In general, if you can only move the needle on viscosity, friction, automation, immediacy, niche, governance and learning you can make a difference.  Check out my [Oblique-Strategies](https://github.com/wisejnrs/pushmanifesto/wiki/Oblique-Strategies) wiki for more.
 
 <p align="center"> <h1 align="center"> <a href="https://linktr.ee/mlwise">Michael Wise</a> </h1> </p>
 <p align="center">
