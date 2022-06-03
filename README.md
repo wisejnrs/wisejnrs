@@ -1,7 +1,7 @@
 
 - 🔭 I’m currently working on Machine Learning and Crypto products.
 - 🌱 I’m currentlywriting msuic and tools for Digital Audio Workstations (DAW)
-- 👯 I’m looking to collaborate on Data Oriented Architectures.
+- 👯 I’m looking to collaborate on [Data Oriented Architectures](https://scholar.google.com.au/scholar?q=Data+Oriented+Architectures).
 - 📫 How to reach me: [Twitter](https://twitter.com/michael_wise)
 - ⚡ Fun fact: I make my own swoosh noises.
 
