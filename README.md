@@ -1,19 +1,16 @@
+# [Michael Wise](https://linktr.ee/mlwise)
 
-- 🔭 I’m currently working on Machine Learning and Crypto products.
-- 🌱 I’m currently producing music, and tools for Digital Audio Workstations (DAW)
-- 👯 I’m looking to collaborate on [Data Oriented Architectures](https://scholar.google.com.au/scholar?q=Data+Oriented+Architectures), Machine Learning and Crypto product ideas.
-- 📫 How to reach me: [Twitter](https://twitter.com/michael_wise)
-- ⚡ Fun fact: I make my own sci-fi noises 🎵
+Hi there! I'm Michael Wise, a passionate developer and music producer with a keen interest in AI, Crypto, and Data Oriented Architectures. 
 
-In general, if you can only move the needle on viscosity, friction, automation, immediacy, niche, governance and learning you can make a difference.  Check out my [Oblique-Strategies](https://github.com/wisejnrs/pushmanifesto/wiki/Oblique-Strategies) wiki for more.
+- 🔭 **Current Projects:** Working on AI and Crypto products.
+- 🌱 **Music Production:** Producing music and developing tools for Digital Audio Workstations (DAW).
+- 👯 **Collaboration:** Open to collaborating on [Data Oriented Architectures](https://scholar.google.com.au/scholar?q=Data+Oriented+Architectures), AI, and Crypto product ideas.
+- 📫 **Reach Me:** [Twitter](https://twitter.com/michael_wise)
+- ⚡ **Fun Fact:** I create my own sci-fi sounds 🎵
 
-<p align="center"> <h1 align="center"> <a href="https://linktr.ee/mlwise">Michael Wise</a> </h1> </p>
-<p align="center">
-<a href="https://github.com/wisejnrs" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="WiseJNRS" height="20" width="20" /></a>
-<a href="https://twitter.com/michael_wise" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Michael Wise" height="20" width="20" /></a>
-</p>
+In general, if you can move the needle on viscosity, friction, automation, immediacy, niche, governance, and learning, you can make a difference. Check out my [Oblique-Strategies](https://github.com/wisejnrs/pushmanifesto/wiki/Oblique-Strategies) wiki for more insights.
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -22,9 +19,9 @@ In general, if you can only move the needle on viscosity, friction, automation, 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=C#)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp)
 
-### Technologies
+## Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -37,5 +34,10 @@ In general, if you can only move the needle on viscosity, friction, automation, 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=WiseJNRS&show_icons=true alt=WiseJNRS />
+	<img src="https://github-readme-stats.vercel.app/api?username=WiseJNRS&show_icons=true" alt="WiseJNRS" />
+</p>
+
+<p align="center">
+	<a href="https://github.com/wisejnrs" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="WiseJNRS" height="20" width="20" /></a>
+	<a href="https://twitter.com/michael_wise" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Michael Wise" height="20" width="20" /></a>
 </p>
