@@ -46,8 +46,8 @@ CIO in Healthcare with 30+ years of technology leadership. Patent holder ([US 11
 <th>Leadership</th>
 </tr>
 <tr>
-<td>Enterprise & Solution Architecture<br>Cloud (AWS / Azure)<br>Data Integration<br>Platform Design</td>
-<td>Full-stack (Python, TypeScript, React, Next.js, FastAPI)<br>Oracle WebADI<br>Open Source</td>
+<td>Enterprise & Solution Architecture<br>Cloud (AWS / Azure)<br>Data Integration & iPaaS<br>Microservices & SOA<br>API Design<br>Platform Design</td>
+<td>C, C++, C#, Java, Python<br>JavaScript, TypeScript, COBOL<br>PL/SQL, VBA, HTML/CSS<br>React, Next.js, .NET, J2EE<br>Node.js, FastAPI, Oracle Forms<br>Oracle WebADI, Unity</td>
 <td>Electronic Music<br>DAW Tools & Sound Design<br>Album Production<br>Merch & Brand</td>
 <td>Digital Transformation<br>Innovation Frameworks<br>Consulting<br>IP Commercialisation</td>
 <td>CIO & Executive Management<br>Team Building (3 to 40+)<br>Stakeholder Engagement<br>Governance</td>
@@ -77,12 +77,29 @@ CIO in Healthcare with 30+ years of technology leadership. Patent holder ([US 11
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-000?&logo=Oracle&logoColor=F80000)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![COBOL](https://img.shields.io/badge/-COBOL-000)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+
+## Databases
+
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle&logoColor=F80000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MS%20SQL](https://img.shields.io/badge/-MS%20SQL-000?&logo=Microsoft-SQL-Server&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Neo4j](https://img.shields.io/badge/-Neo4j-000?&logo=Neo4j)
+![CosmosDB](https://img.shields.io/badge/-CosmosDB-000?&logo=Microsoft-Azure&logoColor=0078D4)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache-Kafka)
 
 ## Technologies
 
@@ -95,11 +112,14 @@ CIO in Healthcare with 30+ years of technology leadership. Patent holder ([US 11
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=512BD4)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Spark](https://img.shields.io/badge/-Spark-000?&logo=Apache-Spark)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=Apache-Hadoop)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Nx](https://img.shields.io/badge/-Nx-000?&logo=Nx)
 
 ---
